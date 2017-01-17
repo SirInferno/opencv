@@ -1,0 +1,47 @@
+git add version.md
+ls
+git commit -m "added new"
+git status
+git push
+git remote remove origin
+git remote origin git@github.com:SirInferno/opencv.git
+git remote add origin git@github.com:SirInferno/opencv.git
+git push -u origin
+git -u push origin master
+git push -u origin master
+ssh -vT git@github.com
+eval "$(ssh-agent -s)"
+ssh-add -l
+ssh-add -l -E md5
+ssh-keygen -t rsa -b 4096 -C "hvsram@gmail.com"
+eval "$(ssh-agent -s)"
+ssh add ~/.ssh/id_rsa
+ssh add ~/.ssh/keystoredhere
+ls
+cd 
+ls
+cd imageproc/
+cd opencv/
+ls
+ssh add ~/.ssh/keystoredhere
+ssh add ~/.ssh/'/home/sairam/imageproc/opencv/keystoredhere' 
+eval "$(ssh-agent -s)"
+ssh add ~/.ssh/keystoredhere
+ssh add ~/.ssh/'/home/sairam/imageproc/opencv/keystoredhere.pub' 
+ssh add ~/.ssh/'home/sairam/imageproc/opencv/keystoredhere' 
+ssh add ~/.ssh/keystoredhere
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "hvsram@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+sudo apt-get install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub 
+git init
+git remot 
+git remote
+git push -u origin
+git remote origin -c
+git remote -v
+git remote push origin master
+git push origin master
+git remote -v
